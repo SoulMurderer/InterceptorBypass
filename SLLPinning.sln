@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLLPinning", "SLLPinning\SLLPinning.csproj", "{1C6CA813-3532-43A8-A804-F5A61783A39E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C6CA813-3532-43A8-A804-F5A61783A39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6CA813-3532-43A8-A804-F5A61783A39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6CA813-3532-43A8-A804-F5A61783A39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6CA813-3532-43A8-A804-F5A61783A39E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70456849-8C8C-4176-9A80-5D12A986570A}
+	EndGlobalSection
+EndGlobal

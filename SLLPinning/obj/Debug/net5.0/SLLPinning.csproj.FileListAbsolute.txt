@@ -1,0 +1,16 @@
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\bin\Debug\net5.0\SLLPinning.exe
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\bin\Debug\net5.0\SLLPinning.deps.json
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\bin\Debug\net5.0\SLLPinning.runtimeconfig.json
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\bin\Debug\net5.0\SLLPinning.runtimeconfig.dev.json
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\bin\Debug\net5.0\SLLPinning.dll
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\bin\Debug\net5.0\ref\SLLPinning.dll
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\bin\Debug\net5.0\SLLPinning.pdb
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.csproj.AssemblyReference.cache
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.AssemblyInfoInputs.cache
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.AssemblyInfo.cs
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.csproj.CoreCompileInputs.cache
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.dll
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\ref\SLLPinning.dll
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.pdb
+C:\Users\Titoot\source\repos\SLLPinning\SLLPinning\obj\Debug\net5.0\SLLPinning.genruntimeconfig.cache
